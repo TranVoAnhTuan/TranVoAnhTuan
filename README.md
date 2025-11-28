@@ -6,7 +6,7 @@ My name is Tuan Tran. I am a Fresher AI engineer. I am interested in the followi
 
 
 
-![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranVoAnhTuan&show_icons=true&theme=tokyonight&hide=contribs,prs )
+![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranVoAnhTuan&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/TranVoAnhTuan/SLM_summarization/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
