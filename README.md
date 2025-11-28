@@ -18,7 +18,7 @@ My name is Tuan Tran. I am a Fresher AI engineer. I am interested in the followi
 </a>
 <a href="https://github.com/TranVoAnhTuan/stock_model/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranVoAnhTuan&repo=stock_model&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranVoAnhTuan&repo=stock_model&theme=merko" />
 </a>
 
 
