@@ -1,16 +1,15 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Tuan Tran. I am a Fresher AI engineer. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
+### 📫 How to reach me: 
 
-<!--
-**TranVoAnhTuan/TranVoAnhTuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] (www.linkedin.com/in/vo-anh-tuan-tran-vietnam)
 
-Here are some ideas to get you started:
+<a href="https://github.com/TranVoAnhTuan/SLM_summarization/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TranVoAnhTuan&repo=SLM_summarization&theme=radical" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
